@@ -5,7 +5,7 @@ h1{
 h2{
 	color: purple;
 	font-size: 50px;
-	font face="century gothic"
+	<p style="font-family:century gothic </p>
 }
 p{
 	color: blue;
